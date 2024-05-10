@@ -23,9 +23,9 @@ Since the author of this work is not a expert on the subject there was the need 
   - Students perform better in the test comparing to other módules in the same discipline?
   - Students perform better in the text comparing to other classes in the same grade?
   - What percentage of students accomplished the 4th levell?
-  - Is there a diferent between the test performance, the circuits made and the levell of registering in the manual?
+  - Is there a diferent between the test performance, the circuits made and the level of registering in the manual?
 - Impact on the teacher professional life?
-- What problems faced and how they were overcaeme?
+- What problems faced and how they were overcome?
 - How students assess the bLearning environment?
 
 ## Strategies:
