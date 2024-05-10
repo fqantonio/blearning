@@ -1,15 +1,15 @@
 (under construction)
 
 ## Introduction
-This is a knowledge sharing document about the use of bLearning to teach computer architecture technology. This paper is done from the point of view of the concrete practice of using it in a educational setting for professional students, from planning to the final assessment, including the tools students have to  surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class of MOODLE ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^1]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding the pro and cons for students and teachers.
+This is a knowledge sharing document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy. This paper is done from the point of view of the concrete practice of using it in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS][^3] and the traditional presential class.
 
-Author: António Gonçalves[^2] 
+Author: António Gonçalves[^4] 
 Senior teacher of chemistry and physics, Lab Aberto FAB LAB coordinator and projet manager. 
 
 ## Description
-The bLearning environment was produced during the 2020 pandemic with one calleague of mine, from the Leiria Polithenic School, David Rodrigues, expert in Physics Computing. He made the production of the video content under the 4C/ID map plan attached. The eLearning enviroment uses mostly MOODLE lesson activities with h5p questions embeded in the video lessons. The lessons are for learning Computer architecture. The students age is about 14 years, mainly males, with to females in the 24 students. They had two previous lesson modules about repairing, mantenaice, benchmark and optimization of computer systems. This specific module its about the understanding how a computer make sum computation. 
+The bLearning environment was produced during the 2020 pandemic with one calleague of mine, from the Leiria Polithenic School, David Rodrigues, expert in Physics Computing. He made the production of the video content under the 4C/ID map plan attached[^5]. The eLearning enviroment[^7] uses mostly MOODLE lesson activities[^6]  with h5p questions embeded in the video lessons[^8]. The lessons are for learning computer logic. The students age is about 14 years, mainly males, with to females in the 24 students. They had two previous lesson modules about repairing, mantenaice, benchmark and optimization of computer systems. This specific module its about the understanding how a computer make sum computation. 
 
-For that they start by learning with video lessons what is inside a processor and how they are produced. Then they turn to the logic gates, simulate them and make them in a breaboard. Finnaly its time to do sum basic mathematics logic operations to understand the connection between the circuits they build to the truth table of sum to buinarry nummbers. there is a part where they also convert numbers in BIN, HEX and DEC formats.
+For that they start by learning with video lessons what is inside a processor and how they are produced. Then they turn to the logic gates, simulate them on Tinkercad[^9] and make them in a breaboard. Finnaly its time to do sum basic mathematics logic operations to understand the connection between the circuits they build to the truth table of sum to buinarry nummbers. there is a part where they also convert numbers in BIN, HEX and DEC formats.
 
 The goals where stablished under the question mark "How a computer sum?". After this, under the 4C/ID educational methodology strategy, there was a map discussed with the team. This map as two vectors: from concrete to conceptual, and from simple to complex with crucial points: automatization of computations and procedures and the use of knowledge and concepts in more diverse and complex settings.
 
@@ -31,10 +31,13 @@ The two major conclusions:
 3. Not all the students find it usefull and profitable
 
 ## References
-[^1]:https://moodle.sefo.pt/
-[^2]:https://lababerto.pt/
-https://h5p.org/
-https://www.tinkercad.com/
-https://moodle.com/
-https://moodle.sefo.pt/course/view.php?id=1150
-4C/ID https://www.4cid.org/
+[^1]:4C/ID https://www.4cid.org/
+[^2]:https://moodle.sefo.pt/
+[^3]:https://moodle.org/
+[^4]:https://lababerto.pt/
+[^5]:map plan of the lesson; 
+[^6]:https://docs.moodle.org/404/en/Lesson_activity
+[^7]https://moodle.sefo.pt/course/view.php?id=1150
+[^8]:https://h5p.org/
+[^9]https://www.tinkercad.com/
+
