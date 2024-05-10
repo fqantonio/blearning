@@ -1,7 +1,7 @@
 (under construction)
 
 ## Introduction
-This is a knowledge sharing document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy along with some other educational procedures. This paper is done from the point of view of the concrete practice of using it in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS][^3] and the traditional presential class.
+This is a knowledge sharing document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy along with some other educational procedures. This paper is made with the point of view of the concrete practice of using the bLearning in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding with the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS][^3] and the traditional presential class.
 
 Author: António Gonçalves[^4] 
 Senior teacher of chemistry and physics, Lab Aberto FAB LAB coordinator and projet manager. 
@@ -13,14 +13,25 @@ For that they start by learning with video lessons what is inside a processor an
 
 The goals where stablished under the question mark "How a computer sum?". After this, under the 4C/ID educational methodology strategy, there was a map discussed with the team. This map as two vectors: from concrete to conceptual, and from simple to complex with crucial points: automatization of computations and procedures and the use of knowledge and concepts in more diverse and complex settings.
 
-The assessment is made by what they write on the learning dossier and the simulations and the respetive circuit in the the breadboard outcame they present to the teacher. They also have an online test that as weight in the final assessment about 30%. Students are allowed to assess what they have experienced anonymously.
+The assessment is made by what they write on the learning manual and the simulations and the respetive circuit in the the breadboard outcame they present to the teacher. They also have an online test that as weight in the final assessment about 30%. Students are allowed to assess what they have experienced anonymously.
 
-Since the author of this work is not a expert on the subject there was the need of getting a team of experts, which is challenging. So, as a teacher, in this new environment, the learning has more weigth them its usual.
+Since the author of this work is not a expert on the subject there was the need of getting a team of experts, which is challenging. The maib goal of the teacher is to coordinate and monitor the lessons and the student progress. So, as a teacher, in this new environment, the self learning has more weigth them its usual.
+
+## research questions
+
+- Impact on the student learning?
+  - Students perform better in the test comparing to other módules in the same discipline?
+  - Students perform better in the text comparing to other classes in the same grade?
+  - What percentage of students accomplished the 4th levell?
+  - Is there a diferent between the test performance, the circuits made and the levell of registering in the manual?
+- Impact on the teacher professional life?
+- What problems faced and how they were overcaeme?
+- How students assess the bLearning environment?
 
 ## Strategies:
 1. Game enviroment with four levels of challenges;
 2. Promoting practice along with simulation;
-3. Dossier for content and conlcusion registering;
+3. Manual for content and conlcusion registering;
 4. Use 4C/ID Inductive methodology educational.
 
 ## Conclusion
