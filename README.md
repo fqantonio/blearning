@@ -32,7 +32,7 @@ The two major conclusions:
 
 ## References
 [^1]:https://moodle.sefo.pt/
-[^2]https://lababerto.pt/
+[^2]:https://lababerto.pt/
 https://h5p.org/
 https://www.tinkercad.com/
 https://moodle.com/
