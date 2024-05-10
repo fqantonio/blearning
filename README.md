@@ -39,5 +39,5 @@ The two major conclusions:
 [^6]:https://docs.moodle.org/404/en/Lesson_activity
 [^7]https://moodle.sefo.pt/course/view.php?id=1150
 [^8]:https://h5p.org/
-[^9]https://www.tinkercad.com/
+[^9]:https://www.tinkercad.com/
 
