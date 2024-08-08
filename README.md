@@ -1,4 +1,5 @@
 (under construction)
+## bLearning - K12 case study
 
 ## Introduction
 This is a knowledge sharing document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy along with some other educational procedures. This paper is made with the point of view of the concrete practice of using the bLearning in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding with the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS[^3] and the traditional presential class.
