@@ -36,11 +36,11 @@ Since the author of this work is not a expert on the subject there was the need 
 4. Use 4C/ID Inductive methodology educational.
 
 ## Conclusion
-The two major conclusions:
+The three major conclusions:
 1. Implement it if you have a team, because its very dificult to implement it alone, under the fact that you need three major roles:
-   content producer, quality control, assessment;
-2. using it allows you to have tme to help and monitor the learning while the students are trying to overcame the challenges proposed;
-3. Not all the students find it usefull and profitable
+   content producer, instructional designer, quality control and assessment;
+2. Allows the teacher to have time to help and monitor the learning while the students are trying to overcame the challenges proposed, incresasing the interaction time stdent/teacehr;
+3. Not all the students find it usefull and profitable, mostly the inductive strategy.
 
 ## References
 [^1]:4C/ID https://www.4cid.org/
