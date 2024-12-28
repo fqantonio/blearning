@@ -1,8 +1,8 @@
 (under construction)
-## bLearning - K12 case study
+## bLearning - K12 case study - DRAFT
 
 ## Introduction
-This is a knowledge sharing document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy along with some other educational procedures. This paper is made with the point of view of the concrete practice of using the bLearning in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding with the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS[^3] and the traditional presential class.
+This is a knowledge sharing [DRAFT] document about the use of bLearning to teach computer architecture technology with 4C/ID[^1] strategy along with some other educational procedures. This paper is made with the point of view of the concrete practice of using the bLearning in a educational setting for professional students, from planning to the final assessment, including the tools students have to surpasse the challenges which are devided in four basic levels. Ths experiencing is being done since 2020 (PSI5 class ESCO professional school in Torres Vedras, Portugal) with more than 100 students[^2]. In this paper we show the assessment results, compare them with other modules results in the same discipline and with other disciplines, concluding with the pro and cons for students and teachers about this blended environmental educational setting using MOODLE LMS[^3] and the traditional presential class.
 
 Author: António Gonçalves[^4] 
 Senior teacher of chemistry and physics, Lab Aberto FAB LAB coordinator and projet manager. 
@@ -38,9 +38,9 @@ Since the author of this work is not a expert on the subject there was the need 
 ## Conclusion
 The three major conclusions:
 1. Implement it if you have a team, because its very dificult to implement it alone, under the fact that you need three major roles:
-   content producer, instructional designer, quality control and assessment;
-2. Allows the teacher to have time to help and monitor the learning while the students are trying to overcame the challenges proposed, incresasing the interaction time stdent/teacehr;
-3. Not all the students find it usefull and profitable, mostly the inductive strategy.
+   instructional designer, content producer, quality control and assessment;
+2. Allows the teacher to have time to help and monitor the learning while the students are trying to overcame the challenges proposed, increasing the interaction time student/teacehr;
+3. Not all the students find it usefull and profitable or addapt well, mostly what they complain (around 10% of the students) is about the inductive strategy and the fact that the learning is on their side. A few students like to have a line of work like a content manual where they follow the study and they feel confortable that way. Others don't like to do all the learning work, they prefer seeing the teacher explaining the content. To solve this, I mix 20 minutes on each lecture to give an overview in the begining or in the end of the lesson and identify the pages for them to follow the content.
 
 ## References
 [^1]:4C/ID https://www.4cid.org/
