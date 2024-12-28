@@ -40,7 +40,8 @@ The three major conclusions:
 1. Implement it if you have a team, because its very dificult to implement it alone, under the fact that you need three major roles:
    instructional designer, content producer, quality control and assessment;
 2. Allows the teacher to have time to help and monitor the learning while the students are trying to overcame the challenges proposed, increasing the interaction time student/teacehr;
-3. Not all the students find it usefull and profitable or addapt well, mostly what they complain (around 10% of the students) is about the inductive strategy and the fact that the learning is on their side. A few students like to have a line of work like a content manual where they follow the study and they feel confortable that way. Others don't like to do all the learning work, they prefer seeing the teacher explaining the content. To solve this, I mix 20 minutes on each lecture to give an overview in the begining or in the end of the lesson and identify the pages for them to follow the content.
+3. Not all the students find it usefull and profitable or addapt well, mostly what they complain (around 10% of the students) is about the inductive strategy and the fact that the learning is on their side. A few students like to have a line of work like a content manual where they follow the study and they feel confortable that way. Others don't like to do all the learning work, they prefer seeing the teacher explaining the content. To solve this, I mix 20 minutes on each lecture to give an overview in the begining or in the end of the lesson and identify the pages for them to follow the content;
+4. Allows procedure automatization by the bLearning structure, a crucial feature of $C/ID instructional design. 
 
 ## References
 [^1]:4C/ID https://www.4cid.org/
